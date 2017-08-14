@@ -124,7 +124,7 @@
 
     <!-- Superuser indicator on status bar -->
     <string name="su_indicator">Root权限使用指示符</string>
-    <string name="su_indicator_summary_on">当Root权限使用时指示符将显示</string>
+    <string name="su_indicator_summary_on">当Root权限使用时指示符将显示#</string>
     <string name="su_indicator_summary_off">切换Root权限在使用时指示符是否显示</string>
 
     <!-- Carrier Label -->
@@ -436,10 +436,10 @@
     <string name="systemui_restart_message">系统界面将重新启动，以便可以正确地应用选定的设置。</string>
 
     <!-- Status Bar Ticker -->
-    <string name="ticker_screen_title">状态栏秒数</string>
-    <string name="ticker_title">状态栏显示秒数</string>
-    <string name="ticker_screen_summary">自定义秒数风格</string>
-    <string name="ticker_summary">启用旧的状态栏秒数</string>
+    <string name="ticker_screen_title">状态栏通知预览</string>
+    <string name="ticker_title">状态栏显示通知预览</string>
+    <string name="ticker_screen_summary">自定义预览风格</string>
+    <string name="ticker_summary">启用旧的状态栏预览</string>
     <string name="ticker_restore_defaults_title">恢复默认值</string>
     <string name="text_title">文本</string>
     <string name="icon_title">图标</string>
